@@ -1,0 +1,19 @@
+[
+  ["How do I reset my password?",
+   "Click **Forgot password** on the sign-in page. We’ll email you a secure link."],
+
+  ["Where can I track my order?",
+   "Open **Your Account → Orders** to see real-time shipping status."],
+
+  ["My package arrived damaged.",
+   "So sorry! Choose **Problem with order → Damaged item** and we’ll ship a free replacement."],
+
+  ["How long is the warranty?",
+   "All products carry a **12-month warranty** from the delivery date."],
+
+  ["I need a copy of my invoice.",
+   "In the order details page, click **Download invoice (PDF)**."],
+
+  ["How do I reach human support?",
+   "Email support@example.com or call **+1-800-555-1234** (24 × 7)."]
+]
